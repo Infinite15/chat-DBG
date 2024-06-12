@@ -52,7 +52,7 @@ File &quot;&lt;string&gt;&quot;, line 1, in &lt;module&gt;
         </tspan>
       </tspan><tspan y="37.333324000000005">
         <tspan dy="1em" x="16.84666666">
-File &quot;/home/steve/ChatDBG/samples/python/bootstrap.py&quot;, line 19, in &lt;module&gt;
+File &quot;/home/incog/ChatDBG/samples/python/bootstrap.py&quot;, line 19, in &lt;module&gt;
         </tspan>
       </tspan><tspan y="55.99998600000001">
         <tspan dy="1em" x="33.69333332">
@@ -60,7 +60,7 @@ stats = resampled_stats(observed_marbles, 5)
         </tspan>
       </tspan><tspan y="74.66664800000001">
         <tspan dy="1em" x="16.84666666">
-File &quot;/home/steve/ChatDBG/samples/python/bootstrap.py&quot;, line 15, in resampled_stats
+File &quot;/home/incog/ChatDBG/samples/python/bootstrap.py&quot;, line 15, in resampled_stats
         </tspan>
       </tspan><tspan y="93.33331000000001">
         <tspan dy="1em" x="33.69333332">
@@ -82,7 +82,7 @@ Running &#39;cont&#39; or &#39;step&#39; will restart the program
         <tspan dy="1em" x="0.0">
 &gt; 
         </tspan><tspan x="16.84666666" style="fill: #4ebf22">
-/home/steve/ChatDBG/samples/python/bootstrap.py
+/home/incog/ChatDBG/samples/python/bootstrap.py
         </tspan><tspan x="412.74333317">
 (15)
         </tspan><tspan x="446.43666649" style="fill: #54e1b9">
